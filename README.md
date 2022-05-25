@@ -1,2 +1,2 @@
 # Wanderas-DrumKit
-A drum kit 
+A drum kit.
